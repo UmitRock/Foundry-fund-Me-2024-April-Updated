@@ -1,0 +1,2 @@
+FundMeTest:testWithdrawMultipleFunders() (gas: 487584) //looping and save in Storage
+FundMeTest:testWithdrawMultipleFundersCheaper() (gas: 486787) //save like variable in memory
